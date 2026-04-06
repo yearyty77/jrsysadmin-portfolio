@@ -1,6 +1,4 @@
-# Powershell-automation
----
-## Desktop
+## Junior Systems Administrator Portfolio
 –––––––––––––––––––––
 
 This repository contains PowerShell automation projects developed from real‑world helpdesk and Tier 2 support experience, with a focus on systems administration and operational troubleshooting. The projects emphasize system health monitoring, change detection, user and device reporting, and safe automation practices commonly used in enterprise Windows environments.
