@@ -1,7 +1,7 @@
 ## Junior Systems Administrator Portfolio
 
 This repository contains PowerShell automation projects developed from real‑world helpdesk and Tier 2 support experience, with a focus on systems administration and operational troubleshooting. The projects emphasize system health monitoring, change detection, user and device reporting, and safe automation practices commonly used in enterprise Windows environments.
-PowerShell, documentation, and troubleshooting are integrated throughout, with an emphasis on read‑only analysis, repeatable workflows, and escalation‑quality outputs. \
+PowerShell, documentation, and troubleshooting are integrated throughout, with an emphasis on read‑only analysis, repeatable workflows, and escalation‑quality outputs.
 
 The goal of this portfolio is to demonstrate practical, job‑ready skills that align with the day‑to‑day responsibilities of a junior systems administrator or systems engineer.
 
