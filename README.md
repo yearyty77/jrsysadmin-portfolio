@@ -8,7 +8,11 @@ The goal of this portfolio is to demonstrate practical, job‑ready skills that 
 ---
 ## Projects
 
-...
+- Project 1 -
+
+- Project 2 -
+
+- Project 3 -
 
 ---
 ## Goals
