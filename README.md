@@ -9,10 +9,10 @@ The goal of this portfolio is to demonstrate practical, job‑ready skills that 
 ...
 
 ### Goals
--Translate common Tier 2 support tasks into reusable PowerShell workflows to improve troubleshooting efficiency and escalation quality
+- Translate common Tier 2 support tasks into reusable PowerShell workflows to improve troubleshooting efficiency and escalation quality
 
--Practice systems‑focused analysis by collecting, comparing, and reporting on system health and configuration data
+- Practice systems‑focused analysis by collecting, comparing, and reporting on system health and configuration data
 
--Strengthen foundational systems administration skills through automation, documentation, and structured troubleshooting
+- Strengthen foundational systems administration skills through automation, documentation, and structured troubleshooting
 
--Use PowerShell as a long‑term tool for reducing repetitive work and supporting scalable IT operations
+- Use PowerShell as a long‑term tool for reducing repetitive work and supporting scalable IT operations
