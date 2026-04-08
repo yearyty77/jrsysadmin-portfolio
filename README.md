@@ -8,8 +8,8 @@ The goal of this portfolio is to demonstrate practical, job‑ready skills that 
 ---
 ## Projects
 
-### Project 1 -
-description 1
+### Project 1 - **Automated Access Provisioning Between ServiceNow and Centric PLM**
+This project aims to improve the efficiency of user access management by integrating ServiceNow with Centric PLM through their APIs. Approved access requests are retrieved from ServiceNow and used to automatically create and configure user accounts in Centric PLM. Once provisioning is complete, the related ServiceNow tickets are updated and closed. By automating these steps, the solution provides a more reliable and efficient provisioning process.
 
 ### Project 2 -
 description 2
