@@ -1,0 +1,1 @@
+I would like to add a verification check to confirm that there does not already exist a user with the requested credentials in centric.
